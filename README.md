@@ -1,4 +1,3 @@
-# hello-world
-learning github
+#learning github
 
-This is a practice repository. I like comics.
+This is a practice repository.
